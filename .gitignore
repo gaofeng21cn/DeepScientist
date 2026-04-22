@@ -50,5 +50,7 @@ dist.bak.*/
 /test-results/
 /src/ui/test-results/
 /runtime/
+.worktrees
+.worktrees/
 /tmp-*.png
 /Codex
